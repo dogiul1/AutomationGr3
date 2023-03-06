@@ -1,0 +1,5 @@
+pages\BasePage.class
+pages\SignInPage\SignInPage.class
+tests\BaseTest.class
+tests\SignInTest\SignUpTest.class
+tests\SignInTest\SignInTest.class
